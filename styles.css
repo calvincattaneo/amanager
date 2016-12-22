@@ -55,6 +55,9 @@ SISTEMA DE GRIDS
 .clear{
 	clear: both;
 }
+.float-right{
+	float: right;
+}
 
 /*----------------------------------------------------
 MENU PADRÃO
@@ -72,8 +75,8 @@ MENU PADRÃO
 }
 .box-menu ul{
 	display: block;
-	float: left;
-	width: 100%;
+	float: right;
+	/*width: 100%;*/
 	padding: 15px 0 0;
 }
 .box-menu li{

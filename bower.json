@@ -1,0 +1,19 @@
+{
+  "name": "amanager",
+  "homepage": "https://github.com/devfreelex/amanager",
+  "authors": [
+    "Calvin Mendes Cattaneo <calvin.cattaneo@gmail.com>"
+  ],
+  "description": "gerenciador de produtos",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ]
+}
